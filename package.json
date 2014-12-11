@@ -1,0 +1,23 @@
+{
+  "name": "image-exists",
+  "description": "Check if an image exists",
+  "version": "1.0.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/KyleAMathews/image-exists/issues"
+  },
+  "homepage": "https://github.com/KyleAMathews/image-exists",
+  "keywords": [
+    "image",
+    "exists"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyleAMathews/image-exists.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

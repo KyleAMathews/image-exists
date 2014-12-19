@@ -1,7 +1,7 @@
 {
   "name": "image-exists",
   "description": "Check if an image exists",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
     "url": "https://github.com/KyleAMathews/image-exists/issues"
